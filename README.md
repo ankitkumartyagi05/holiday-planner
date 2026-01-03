@@ -142,7 +142,8 @@ Deploy this static site for free on any of these platforms:
 
 ### ⭐ If you like this project, give it a star
 
-[![GitHub stars](https://img.shields.io/github/stars/ankitkumartyagi05/holiday-planner-?style=social)](https://github.com/ankitkumartyagi05/holiday-planner-)
+[![GitHub stars](https://img.shields.io/github/stars/ankitkumartyagi05/holiday-planner-?style=social)](https://github.com/ankitkumartyagi05/holiday-planner)
 
 </div>
+
 <div align="center">
