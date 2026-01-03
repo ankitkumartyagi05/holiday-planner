@@ -126,7 +126,7 @@ Deploy this static site for free on any of these platforms:
 
 | Platform | Link | Difficulty |
 | :--- | :--- | :--- |
-| **GitHub Pages** | [pages.github.com]([live in git hub pages](https://ankitkumartyagi05.github.io/holiday-planner-/) | ⭐⭐ |
+| **GitHub Pages** | [pages.github.com]([live in git hub pages](https://ankitkumartyagi05.github.io/holiday-planner/) | ⭐⭐ |
 
 
 ---
@@ -147,3 +147,4 @@ Deploy this static site for free on any of these platforms:
 </div>
 
 <div align="center">
+
