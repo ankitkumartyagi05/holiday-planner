@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌴 HolidayPlanner Pro
+# 🌴 WorldWay Planner
 
 ### **The Ultimate Enterprise-Grade Holiday Planner**
 
@@ -147,4 +147,5 @@ Deploy this static site for free on any of these platforms:
 </div>
 
 <div align="center">
+
 
